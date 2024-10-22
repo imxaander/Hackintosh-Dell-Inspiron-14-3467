@@ -5,6 +5,6 @@ You can use this for reference in your EFI to be used on your own laptop of this
 ## Tests
 | SMBIOS | Version | Result | Notes |
 |:--------|:-----|:---|:---|
-| iMac 17,1 | Monterey |- [ x ] Boots <br> - [ x ] Installs | - Audio is not yet supported <br> - Both WIFI and Bluetooth (Qualcomm Atheros) are impossible to setup (Oct 22, 2024).
+| iMac 17,1 | Monterey |- [x]Boots <br> - [x]Installs | - Audio is not yet supported <br> - Both WIFI and Bluetooth (Qualcomm Atheros) are impossible to setup (Oct 22, 2024).
 
 
