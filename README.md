@@ -4,7 +4,11 @@ This repo contains EFI files to be used in hackintoshing using OpenCore.
 You can use this for reference in your EFI to be used on your own laptop of this model:
  - **Model** : Dell Inspiron 14 3467
  - **CPU** : i3 6th gen (Skylake)
- - **GPU** : AMD R5 M420
+ - **dGPU** : AMD R5 M420
+ - **iGPU** : Intel HD 520
+
+## Notes
+ - This EFI uses iGPU
    
 ## Tests
 | SMBIOS | Version | Result | Notes |
