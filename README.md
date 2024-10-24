@@ -6,6 +6,16 @@ You can use this for reference in your EFI to be used on your own laptop of this
  - **CPU** : i3 6th gen (Skylake)
  - **dGPU** : AMD R5 M420
  - **iGPU** : Intel UHD520
+   
+## Support
+| Feature | Status | Notes |
+|:-----|:----|:----|
+| Audio | Working | |
+| Display | Working | |
+| Wifi | Not working | Qualcomm Atheros is not supported as of Oct 24, 2024 |
+| Bluetooth | Not working | Qualcomm Atheros is not supported as of Oct 24, 2024 |
+| Graphics | Working | using the iGPU`UHD 520`, not the dedicated`AMD R5 M420`  |
+| Sleep | Broken | cant wake the laptop from sleep |
 
 ## Notes
  - This EFI uses iGPU
