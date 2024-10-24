@@ -12,7 +12,7 @@ You can use this for reference in your EFI to be used on your own laptop of this
  - Uses layout-id `11`. Change this in plist if audio doesn't work.
     - The supported layout ids are : `3, 11, 12, 13, 15, 17, 18, 20, 21, 22, 23, 27, 28, 29, 30, 31, 37, 66, 69, 71, 80, 82, 86, 96, 99, 100, 255`
     - Please refer to these OC docs [Fixing Audio](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html), [Supported Codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
- - I added horndix.kext for usb tethering; since this laptop have unsupported wifi and bluetooth card.
+ - I added horndix.kext for usb tethering; since this laptop (by default) have unsupported wifi and bluetooth card.
  - System Information
    - `<will be updated soon>`
 ## Tests
