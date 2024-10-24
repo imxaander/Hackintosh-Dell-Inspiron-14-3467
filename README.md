@@ -5,7 +5,7 @@ You can use this for reference in your EFI to be used on your own laptop of this
  - **Model** : Dell Inspiron 14 3467
  - **CPU** : i3 6th gen (Skylake)
  - **dGPU** : AMD R5 M420
- - **iGPU** : Intel HD 520
+ - **iGPU** : Intel UHD520
 
 ## Notes
  - This EFI uses iGPU
