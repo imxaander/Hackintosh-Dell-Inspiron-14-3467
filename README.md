@@ -1,6 +1,8 @@
 # OpenCore EFI for Hackintosh Dell Inspiron 14 3467
 This repo contains EFI files to be used in hackintoshing using OpenCore.
 
+> `WARNING` : ONLY USE THIS EFI IF YOU DONT REALLY WANT TO FOLLOW [DORTANIA'S OPENCORE GUIDE](https://dortania.github.io/OpenCore-Install-Guide/)
+
 You can use this for reference in your EFI to be used on your own laptop of this model:
  - **Model** : Dell Inspiron 14 3467
  - **CPU** : i3 6th gen (Skylake)
